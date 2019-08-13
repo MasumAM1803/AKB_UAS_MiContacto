@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/pict_person_black_24dp"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_mycontact"
+        android:icon="@drawable/pict_contacts_black_24dp"
+        android:title="@string/title_mycontact" />
+
+    <item
+        android:id="@+id/navigation_friend_list"
+        android:icon="@drawable/pict_contact_phone_black_24dp"
+        android:title="@string/title_friend_list" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/more"
+        android:title="@string/title_more" />
+
+</menu>
